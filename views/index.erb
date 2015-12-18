@@ -1,0 +1,8 @@
+<style>
+  table { float: left; }
+  td { width: 125px; height: 125px}
+</style>
+
+<% 20.times do %>
+   <%= erb :bingo, collection: @thumbnails %>
+<% end %>

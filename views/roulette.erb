@@ -1,0 +1,23 @@
+<style>
+ img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+ }
+</style>
+<link rel="stylesheet" href="jquery.bxslider.min.css" />
+<div class="bxslider" style="width: 500px">
+  <% @pictures.shuffle.each do |pic|  %>
+     <div><img style="float: center" src="<%= pic  %>" title="captions"></div>
+  <% end %>
+</div>
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script  src="jquery.bxslider.min.js"></script>
+
+<script>
+$(document).ready(function(){
+  $('.bxslider').bxSlider({auto: false, mode: 'fade' });
+});
+</script>

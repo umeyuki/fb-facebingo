@@ -1,0 +1,18 @@
+<% selected_thumbs = @thumbnails.shuffle.slice(0..8) %>
+<table>
+  <tr>
+    <td><img src="<%= selected_thumbs[0] %>"/></td>
+    <td><img src="<%= selected_thumbs[1] %>"/></td>
+    <td><img src="<%= selected_thumbs[2] %>"/></td>
+  </tr>
+  <tr>
+    <td><img src="<%= selected_thumbs[3] %>"/></td>
+    <td><img src="<%= selected_thumbs[4] %>"/></td>
+    <td><img src="<%= selected_thumbs[5] %>"/></td>
+  </tr>
+  <tr>
+    <td><img src="<%= selected_thumbs[6] %>"/></td>
+    <td><img src="<%= selected_thumbs[7] %>"/></td>
+    <td><img src="<%= selected_thumbs[8] %>"/></td>
+  </tr>
+</table>
