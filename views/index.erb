@@ -1,8 +1,13 @@
 <style>
   table { float: left; }
-  td { width: 125px; height: 125px}
+  td { width: 125px; height: 155px}
+  div { height: 300px }
 </style>
 
-<% 20.times do %>
-   <%= erb :bingo, collection: @thumbnails %>
+<% 7.times do %>
+  <div>
+  <% 3.times do %>
+     <%= erb :bingo, collection: @thumbnails %>
+  <% end %>
+  </div>
 <% end %>

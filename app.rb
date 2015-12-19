@@ -9,7 +9,7 @@ get '/' do
     "https://scontent.xx.fbcdn.net/hprofile-xpt1/v/t1.0-1/p100x100/69220_215233335285358_876095414_n.jpg?oh=68095aef668c9aa31c43d04470de3b09&oe=5721DCE9",
     "https://scontent.xx.fbcdn.net/hprofile-frc3/v/t1.0-1/p100x100/549170_392095807593196_1286505887_n.jpg?oh=d20f83b32d784537e3084ceb92967057&oe=5710AB14",
     "https://scontent.xx.fbcdn.net/hprofile-xaf1/v/t1.0-1/p100x100/395202_112176635577549_1178785785_n.jpg?oh=07420635c32d27ed1b82b55923ccfca3&oe=570DF3D1",
-    "https://scontent.xx.fbcdn.net/hprofile-xla1/v/t1.0-1/s100x100/1379841_10150004552801901_469209496895221757_n.jpg?oh=ddad5a9d4773eddb612be3d0c7bd7f40&oe=5712A497",
+    "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoLSGDtsI1eulhVLJK-mcIp8lH-3EYORO6-zsWXC6pirBWZgMkMA",
     "https://scontent.xx.fbcdn.net/hprofile-xfp1/v/t1.0-1/p100x100/11162521_784637591649735_4451575616549986192_n.jpg?oh=826dda17d8393c7edf12eb7dc8208845&oe=5717EA7E",
     "https://scontent.xx.fbcdn.net/hprofile-xla1/v/t1.0-1/p100x100/383687_178247755607565_1685289162_n.jpg?oh=dc665e9be63586329ee1e1c694f5733e&oe=56DE1EFF",
     "https://scontent.xx.fbcdn.net/hprofile-xpa1/v/t1.0-1/p100x100/735143_397025697054041_1094715070_n.jpg?oh=672e263953265fb1a4d460369c6dd0ee&oe=571E7B70",
@@ -40,7 +40,7 @@ get '/roulette' do
       "https://scontent.xx.fbcdn.net/hprofile-frc3/v/t1.0-1/p200x200/549170_392095807593196_1286505887_n.jpg?oh=9fd555d85eded4a56500e9c542f9ddda&oe=570EB5B6",
       "https://scontent.xx.fbcdn.net/hprofile-xaf1/v/t1.0-1/p200x200/61497_100697456798369_119514932_n.jpg?oh=e7f24588a7262f16fe625783bf80ecaf&oe=571D1E5D",
       "https://scontent.xx.fbcdn.net/hprofile-xpt1/v/t1.0-1/69220_215233335285358_876095414_n.jpg?oh=93692af6f05ebf9319db323f71c4f1e8&oe=56D47676",
-      "https://scontent.xx.fbcdn.net/hprofile-xla1/v/t1.0-1/s200x200/1379841_10150004552801901_469209496895221757_n.jpg?oh=909e820c5862058afbcf1ceca191cb97&oe=571740F8",
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoLSGDtsI1eulhVLJK-mcIp8lH-3EYORO6-zsWXC6pirBWZgMkMA",
       "https://scontent.xx.fbcdn.net/hprofile-xta1/v/t1.0-1/p200x200/10413384_394000937443113_6801705662564953478_n.jpg?oh=5f251ede96839ce81255f9fe9999c503&oe=57139B22",
       "https://scontent.xx.fbcdn.net/hprofile-frc3/v/t1.0-1/p200x200/10153050_635716479844743_648228160516861661_n.jpg?oh=7c17a3ec2cc8eb40ccb3ca77fb356351&oe=56DB81DF",
       "https://scontent.xx.fbcdn.net/hprofile-xfa1/v/t1.0-1/s200x200/11101620_1388654811460837_5756128866224745278_n.jpg?oh=994536e3696513c13e8ff126843af137&oe=570D2B76"
